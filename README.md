@@ -1,0 +1,2 @@
+# spudbuddy
+Spud Buddy website
